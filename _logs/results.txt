@@ -1,0 +1,33 @@
+-------------madrid01.dat Genetic-ox2-3-elites-23436383-------------
+
+Best cost: 2990
+Execution time: 1.374623
+-------------madrid02.dat Genetic-ox2-3-elites-23436383-------------
+
+Best cost: 2842
+Execution time: 1.364620
+-------------madrid03.dat Genetic-ox2-3-elites-23436383-------------
+
+Best cost: 4314
+Execution time: 1.444243
+-------------madrid04.dat Genetic-ox2-3-elites-23436383-------------
+
+Best cost: 4408
+Execution time: 1.717185
+-------------malaga01.dat Genetic-ox2-3-elites-23436383-------------
+
+Best cost: 3843
+Execution time: 1.437376
+-------------malaga02.dat Genetic-ox2-3-elites-23436383-------------
+
+Best cost: 33056
+Execution time: 1.453670
+-------------malaga03.dat Genetic-ox2-3-elites-23436383-------------
+
+Best cost: 13631
+Execution time: 2.454589
+-------------malaga04.dat Genetic-ox2-3-elites-23436383-------------
+
+Best cost: 185830
+Execution time: 2.467259
+

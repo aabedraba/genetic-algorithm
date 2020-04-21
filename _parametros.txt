@@ -1,0 +1,6 @@
+input = malaga01.dat
+seed = 53597523
+crossover = ox2
+eliteSize = 3
+num_evaluaciones = 50000
+num_torneo = 2
